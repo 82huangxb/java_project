@@ -1,0 +1,11 @@
+###
+POST http://localhost:8002/payment/create
+Content-Type: application/json
+
+{
+  "serial":"atguigu"
+}
+
+###
+GET http://localhost:8002/payment/view?id=1610985385755906050
+Content-Type: application/json

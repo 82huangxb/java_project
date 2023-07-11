@@ -1,0 +1,11 @@
+###
+GET http://localhost/consumer/payment/create
+Content-Type: application/json
+
+{
+  "serial":"hema"
+}
+
+###
+GET http://localhost/consumer/payment/view/1610985385755906050
+Content-Type: application/json

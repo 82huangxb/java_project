@@ -1,0 +1,4 @@
+E:\IDEAproject\springCloud_study\cloud2022\cloud-consumer-feign-hystrix-order80\src\main\java\com\atguigu\springcloud\controller\FeignHystrixController.java
+E:\IDEAproject\springCloud_study\cloud2022\cloud-consumer-feign-hystrix-order80\src\main\java\com\atguigu\springcloud\FeignHystrixOrderMain80.java
+E:\IDEAproject\springCloud_study\cloud2022\cloud-consumer-feign-hystrix-order80\src\main\java\com\atguigu\springcloud\feign\impl\FeignPaymenFallback.java
+E:\IDEAproject\springCloud_study\cloud2022\cloud-consumer-feign-hystrix-order80\src\main\java\com\atguigu\springcloud\feign\FeignPayment.java
